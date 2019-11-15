@@ -1,2 +1,3 @@
-name=rock
-age=333
+name: rock
+age: 333
+env: dev
